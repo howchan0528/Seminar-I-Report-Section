@@ -9,9 +9,9 @@
 > 每次演講當天繳交，需包含：日期、講者、題目、筆記內容。
 
 | 次數 | 日期 | 講者 | 題目 | 筆記連結 |
-|:--------:|:--------:|:--------:|:---:|:-----:|
+|:--------:|:--------:|:--------:|:---|:-----:|
 | 第 1 次 | 2026/9/15 | 王大進教授 | System-level Diagnosis - An Introduction and Recent Results | [點擊查看](上課筆記/0915.md) |
-| 第 2 次 | 2026/9/22 | 彭徐鈞教授 | 從數據驅動到臨床轉譯：人工智慧於醫學訊號診斷與預後評估之最新進展 | [點擊查看](上課筆記/0922.md) |
+| 第 2 次 | 2026/9/22 | 彭徐鈞教授 | From Data-Driven Insights to Clinical Translation: Advances in AI for Diagnostic and Prognostic Medical Imaging | [點擊查看](上課筆記/0922.md) |
 | 第 3 次 | | | | [點擊查看](notes/note3.md) |
 | 第 4 次 | | | | [點擊查看](notes/note4.md) |
 
